@@ -1,0 +1,6 @@
+module Pods_CyrusProject_CyrusProjectTests {
+  umbrella header "Pods-CyrusProject-CyrusProjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

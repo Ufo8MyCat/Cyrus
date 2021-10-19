@@ -1,0 +1,6 @@
+module Pods_CyrusProject {
+  umbrella header "Pods-CyrusProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
